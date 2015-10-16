@@ -1,5 +1,10 @@
 # Gitrob
 
+<hr />
+## Code freeze
+**I haven't had a lot of time to maintain and expand Gitrob after its release, however this has changed now. I am now working on a complete refactoring of the tool and will try to incorporate as many of the requested features as possible. The current code will be frozen for now and open pull requests will therefore not be merged.**
+<hr />
+
 Developers generally like to share their code, and many of them do so by open sourcing it on GitHub, a social code hosting and collaboration service. Many companies also use GitHub as a convenient place to host both private and public code repositories by creating GitHub organizations where employees can be joined.
 
 Sometimes employees might publish things that should not be publicly available, things that contain sensitive information or things that could even lead to direct compromise of a system. This can happen by accident or because the employee does not know the sensitivity of the information.
